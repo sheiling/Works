@@ -9,3 +9,6 @@ https://cloud.tencent.com/developer/article/1726524?from=article.detail.1525357&
 
 sci 论文免费下载
 https://sci-hub.wf/
+
+文档格式转换
+https://app.xunjiepdf.com/word2jpg/
