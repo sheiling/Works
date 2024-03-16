@@ -13,3 +13,6 @@ https://sci-hub.wf/
 
 文档格式转换
 https://app.xunjiepdf.com/word2jpg/
+
+一些高质量收费课程
+https://www.yuque.com/ysgstudyhard/da6e0c/nkoqf7
